@@ -1,2 +1,0 @@
-# VIP-Configs
-VIP Configs
